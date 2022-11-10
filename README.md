@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akashgurung2022
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning CSS
 - 💞️ I’m looking to collaborate on twitch
 - 📫 How to reach me  https://www.linkedin.com/in/akash-gurung-918787236/
 
